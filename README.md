@@ -4,15 +4,6 @@ Automatic Data Analyzer is a **Streamlit web application** that performs **compl
 
 ---
 
-## 🗂 Table of Contents
-- [✨ Features](#features)
-- [🛠 Technologies Used](#technologies-used)
-- [⚙️ How It Works](#how-it-works)
-- [💻 Installation](#installation)
-- [📧 Contact](#contact)
-
----
-
 ## ✨ Features
 - 🖥 **Single-Frame Analysis:** All insights appear on one scrollable page.  
 - 👀 **Data Preview:** View the first few rows of your dataset instantly.  
@@ -47,8 +38,7 @@ Automatic Data Analyzer is a **Streamlit web application** that performs **compl
    - Histograms for all numeric columns  
 4. 🖼 All results are displayed on **a single scrollable page**.  
 
-## ✨ Contact
-+916392505818
+## ✨ Contact:- +916392505818
 ---
 
 ## 💻 Installation
