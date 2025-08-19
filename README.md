@@ -1,2 +1,62 @@
 # Automatic_Data_Analyzer_App
-Automatic Data Analyzer is a Streamlit web app that performs complete data analysis with just a single file upload. Simply upload your CSV file, and the app automatically generates:  Data Overview: Preview, summary statistics, and data types. Visual Analysis: Histograms, distribution plots, and interactive charts for numeric columns.
+Automatic Data Analyzer is a **Streamlit web application** that performs **complete, end-to-end data analysis in a single frame**. Just upload your CSV file, and the app automatically generates data previews, summary statistics, visualizations, missing value analysis, and correlation heatmaps — all on one interactive page. This makes data exploration **fast, simple, and user-friendly** without writing a single line of code.
+
+---
+
+## Table of Contents
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [How It Works](#how-it-works)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Future Enhancements](#future-enhancements)
+- [License](#license)
+
+---
+
+## Features
+- **Single-Frame Analysis:** All insights appear on one scrollable page.  
+- **Data Preview:** View the first few rows of your dataset instantly.  
+- **Summary Statistics:** Automatic computation of mean, median, standard deviation, min, max, quartiles.  
+- **Missing Values Detection:** Identify null or missing values in your dataset.  
+- **Correlation Analysis:** Correlation heatmaps for numeric columns.  
+- **Visualizations:** Automatically generated histograms with KDE for numeric columns.  
+- **No Coding Required:** Fully interactive interface using Streamlit.  
+
+---
+
+## Technologies Used
+- **Python Libraries:**
+  - `numpy` – numerical computations
+  - `pandas` – data manipulation and analysis
+  - `matplotlib` – plotting charts
+  - `seaborn` – statistical visualizations
+  - `streamlit` – web app interface
+- **Version Control:** Git & GitHub  
+- **Deployment Platform:** Streamlit Community Cloud  
+
+---
+
+## How It Works
+1. Upload your CSV file via the Streamlit interface.  
+2. The app reads the dataset using **Pandas**.  
+3. Automatic analysis is performed:  
+   - Data preview  
+   - Summary statistics  
+   - Missing values detection  
+   - Correlation matrix and heatmap  
+   - Histograms for all numeric columns  
+4. All results are displayed on **a single scrollable page**.  
+
+---
+
+## Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/my-streamlit-app.git
+cd my-streamlit-app
+python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+streamlit run app.py
