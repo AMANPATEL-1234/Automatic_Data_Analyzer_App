@@ -8,10 +8,6 @@ Automatic Data Analyzer is a **Streamlit web application** that performs **compl
 - [Technologies Used](#technologies-used)
 - [How It Works](#how-it-works)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
 
 ---
 
