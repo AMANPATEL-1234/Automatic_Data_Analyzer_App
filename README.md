@@ -25,6 +25,9 @@ Automatic Data Analyzer is a **Streamlit web application** that performs **compl
 - **Version Control:** Git & GitHub  
 - **Deployment Platform:** Streamlit Community Cloud  
 
+## Deployed Link
+https://oneclick-data-analyzer.streamlit.app/
+
 ---
 
 ## ⚙️ How It Works
