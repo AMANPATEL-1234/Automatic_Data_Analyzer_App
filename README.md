@@ -44,7 +44,7 @@ Automatic Data Analyzer is a **Streamlit web application** that performs **compl
 ## 💻 Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/my-streamlit-app.git
+git clone (https://github.com/AMANPATEL-1234/Automatic_Data_Analyzer_App)
 cd my-streamlit-app
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
