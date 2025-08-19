@@ -1,6 +1,6 @@
 # 📊 Automatic Data Analyzer
 
-Automatic Data Analyzer is a **Streamlit web application** that performs **complete, end-to-end data analysis in a single frame**. Just upload your CSV file, and the app automatically generates **data previews, summary statistics, visualizations, missing value analysis, and correlation heatmaps** — all on one interactive page. This makes data exploration **fast, simple, and user-friendly** without writing a single line of code.
+Automatic Data Analyzer is a **Streamlit web application** that performs **complete, end-to-end data analysis in a single frame**. Just upload your CSV file, and the app automatically generates **data previews, summary statistics, visualizations, missing value analysis, and correlation heatmaps** ,all on one interactive page. This makes data exploration **fast, simple, and user-friendly** without writing a single line of code.
 
 ---
 
@@ -48,7 +48,7 @@ Automatic Data Analyzer is a **Streamlit web application** that performs **compl
 4. 🖼 All results are displayed on **a single scrollable page**.  
 
 ## ✨ Contact
-6392505818
++916392505818
 ---
 
 ## 💻 Installation
